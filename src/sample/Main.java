@@ -18,7 +18,8 @@ public class Main extends Application {
         } catch (IOException e) {
             e.printStackTrace ();
         }
-        primaryStage.setTitle("Hello MeoMeo World");
+        primaryStage.setTitle("Hello MeoMeo World 2");
+        primaryStage.setTitle("Hello MeoMeo World 3");
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
     }
